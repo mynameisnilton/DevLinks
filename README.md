@@ -14,3 +14,12 @@ Nilton Barbosa
 
 
 
+
+## Deploy
+
+Para fazer o deploy desse projeto rode
+
+```bash
+  https://links-sepia-one.vercel.app/#
+```
+
